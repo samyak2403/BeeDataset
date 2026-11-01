@@ -1,0 +1,7 @@
+Class: European Foulbrood
+Etiological Agent: Melissococcus plutonius
+Visual Indicators: Displaced, twisted, yellowish-brown unsealed larvae; sour odor.
+Status: Initialized for BeeGuard 7-class ontology.
+Protocol: In accordance with medical and diagnostic guidelines,
+synthetic images are strictly prohibited. Field data must be sourced from
+molecularly verified clinical apicultural inspections.

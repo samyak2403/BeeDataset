@@ -1,0 +1,7 @@
+Class: American Foulbrood
+Etiological Agent: Paenibacillus larvae
+Visual Indicators: Sunken, punctured dark cappings; dark adherent scales; ropiness test positive.
+Status: Initialized for BeeGuard 7-class ontology.
+Protocol: In accordance with medical and diagnostic guidelines,
+synthetic images are strictly prohibited. Field data must be sourced from
+molecularly verified clinical apicultural inspections.

@@ -1,0 +1,33 @@
+# Archives & Compressed Files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+
+# Temporary extraction & scratch directories
+temp_extract/
+scratch/
+.system_generated/
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# IDE & OS Metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+.DS_Store

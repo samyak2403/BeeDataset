@@ -1,0 +1,7 @@
+Class: Chalkbrood
+Etiological Agent: Ascosphaera apis
+Visual Indicators: Chalk-like white/mottled hard mummified larvae in cells or hive entrance.
+Status: Initialized for BeeGuard 7-class ontology.
+Protocol: In accordance with medical and diagnostic guidelines,
+synthetic images are strictly prohibited. Field data must be sourced from
+molecularly verified clinical apicultural inspections.
